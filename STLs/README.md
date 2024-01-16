@@ -1,4 +1,4 @@
-# STLs for LDO Kit
+# STLs for LDO Milo V1.5 Kit
 This directory contains STL files specific to the LDO kit.
 
 ## Inlet Skirt 1.0mm
