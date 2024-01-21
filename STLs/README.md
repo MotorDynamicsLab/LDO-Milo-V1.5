@@ -1,6 +1,59 @@
 # STLs for LDO Milo V1.5 Kit
 This directory contains STL files specific to the LDO kit.
 
+|Directory|File|LDO Version|Variations|
+|---|---|---|---|
+|Minimill Main\Cable Chain Mounts|[a] Z Axis Cable Cover x1.stl|Yes||
+|Minimill Main\Cable Chain Mounts|[a] Z Axis Cable Chain Backer x1.stl|Yes||
+|Minimill Main\Cable Chain Mounts|[a] Z Drag Chain Mount B x1.stl|Yes||
+|Minimill Main\X Axis STLs|X Axis Motor Mount x1.stl|Yes||
+|Electronics Table|Mainboard Mount x1.stl|Yes||
+|Electronics Table|Skirt Front A Solid x1.stl|||
+|Electronics Table|Skirt Front B E-Stop x1.stl|||
+|Electronics Table|Rear Skirt A x1.stl|Yes||
+|Electronics Table|Rear Skirt B x1.stl|Yes||
+|Electronics Table|WAGO Mount Horizontal x1.stl|Yes|Yes|
+|Electronics Table|WAGO Mount Vertical x1.stl|Yes|Yes|
+|Minimill Main\Y Axis STLs|Y Axis Motor Mount x1.stl|Yes||
+|Minimill Main\Y Axis STLs|Y Axis Bearing Block x1.stl|Yes||
+|Minimill Main\Y Axis STLs|Y Axis Anti Backlash Nut x1.stl|Yes||
+|Minimill Main\Cable Chain Mounts|[a] XY Drag Chain Transition x1.stl|Yes||
+|Minimill Main\X Axis STLs|X Axis Table Support Ends x4 .stl|Yes||
+|Minimill Main\X Axis STLs|X Axis Table Support Centre x2 .stl|Yes||
+|Minimill Main\X Axis STLs|X Axis Bearing Block x1.stl|Yes||
+|Minimill Main\X Axis STLs|X Axis Anti Backlash Nut x1.stl|Yes||
+|Minimill Main|Toolsetter.stl|Yes||
+|Electronics Table|IO_Expander_DIN_Mount.stl|Yes||
+|Electronics Table|IO_Expander_Mount.stl|Yes||
+|Electronics Table|PSU Mounting Brackets  x1.stl|Yes||
+|Minimill Main\Cable Chain Mounts|[a] Z Top Cable Tie Anchor.stl|Yes||
+|Minimill Main|Millenium Maker Coin.stl|||
+|Minimill Main\Spindle Mount|Logo Insert x1.stl|||
+|Minimill Main\Spindle Mount|Spindle Mount 65mm Part B x1.stl||Yes|
+|Minimill Main\Spindle Mount|Spindle Mount 80mm Part B x1.stl||Yes |
+|Minimill Main\Spindle Mount|[a] Spindle Mount 65mm Part A x1.stl||Yes|
+|Minimill Main\Spindle Mount|[a] Spindle Mount 80mm Part A x1.stl||Yes |
+|Minimill Main\Z Axis STLs|Z Axis Anti Backlash Nut x1.stl|||
+|Minimill Main\Z Axis STLs|Z Motor Mount x1.stl|||
+|Minimill Main\Z Axis STLs|[a] Z Axis Bearing Block x1.stl|||
+|Tools|Dummy Rail.stl|||
+|Tools|Rail Alignment Guide.stl|||
+|Tools|Rail Grease Packing Tool.stl|||
+|Electronics Table|Cable Channel Cover x1.stl|||
+|Electronics Table|Cable Channel x1.stl|||
+|Electronics Table|TPU Feet x4.stl|||
+|Electronics Table|[a] Table Bolt Down Bracket A x2.stl|||
+|Electronics Table|[a] Table Bolt Down Bracket B x2.stl|||
+|Minimill Main\Cable Chain Mounts|[a] Y Drag Chain Mount x1.stl|||
+|Minimill Main\Cable Chain Mounts|[a] Z Cable Redirect Hook x1.stl|||
+|Minimill Main\Cable Chain Mounts|[a] Z Drag Chain Mount A x1.stl|||
+|Minimill Main\Hand Wheels|Handwheel Body x2 .stl|Yes|Yes|
+|Minimill Main\Hand Wheels|Handwheel Body Knurled x2 .stl|Yes|Yes |
+|Minimill Main\Hand Wheels|Handwheel Handle x2.stl|||
+|Minimill Main\Main Column|Ballast Box x1.stl|||
+|Minimill Main\Main Column|Ballast Cap x1.stl|||
+
+
 ## Inlet Skirt 1.0mm
 ![image](IMG/Inlet_Skirt_1.0mm.png "wireframe image")  
 This part replaces the `plug_panel` part from the official [Milo V1.5 repo](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files). It adapts specifically to 1.0mm AC inlets for a better fit.
