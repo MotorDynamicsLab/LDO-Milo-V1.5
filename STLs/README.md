@@ -1,103 +1,78 @@
-# STLs for LDO Milo V1.5 Kit
-This directory contains STL files specific to the LDO kit.
-
-|Directory|File|LDO Version|Variations|
-|---|---|---|---|
-|Minimill Main\Cable Chain Mounts|[a] Z Axis Cable Cover x1.stl|Yes||
-|Minimill Main\Cable Chain Mounts|[a] Z Axis Cable Chain Backer x1.stl|Yes||
-|Minimill Main\Cable Chain Mounts|[a] Z Drag Chain Mount B x1.stl|Yes||
-|Minimill Main\X Axis STLs|X Axis Motor Mount x1.stl|Yes||
-|Electronics Table|Mainboard Mount x1.stl|Yes||
-|Electronics Table|Skirt Front A Solid x1.stl|||
-|Electronics Table|Skirt Front B E-Stop x1.stl|||
-|Electronics Table|Rear Skirt A x1.stl|Yes||
-|Electronics Table|Rear Skirt B x1.stl|Yes||
-|Electronics Table|WAGO Mount Horizontal x1.stl|Yes|Yes|
-|Electronics Table|WAGO Mount Vertical x1.stl|Yes|Yes|
-|Minimill Main\Y Axis STLs|Y Axis Motor Mount x1.stl|Yes||
-|Minimill Main\Y Axis STLs|Y Axis Bearing Block x1.stl|Yes||
-|Minimill Main\Y Axis STLs|Y Axis Anti Backlash Nut x1.stl|Yes||
-|Minimill Main\Cable Chain Mounts|[a] XY Drag Chain Transition x1.stl|Yes||
-|Minimill Main\X Axis STLs|X Axis Table Support Ends x4 .stl|Yes||
-|Minimill Main\X Axis STLs|X Axis Table Support Centre x2 .stl|Yes||
-|Minimill Main\X Axis STLs|X Axis Bearing Block x1.stl|Yes||
-|Minimill Main\X Axis STLs|X Axis Anti Backlash Nut x1.stl|Yes||
-|Minimill Main|Toolsetter.stl|Yes||
-|Electronics Table|IO_Expander_DIN_Mount.stl|Yes||
-|Electronics Table|IO_Expander_Mount.stl|Yes||
-|Electronics Table|PSU Mounting Brackets  x1.stl|Yes||
-|Minimill Main\Cable Chain Mounts|[a] Z Top Cable Tie Anchor.stl|Yes||
-|Minimill Main|Millenium Maker Coin.stl|||
-|Minimill Main\Spindle Mount|Logo Insert x1.stl|||
-|Minimill Main\Spindle Mount|Spindle Mount 65mm Part B x1.stl||Yes|
-|Minimill Main\Spindle Mount|Spindle Mount 80mm Part B x1.stl||Yes |
-|Minimill Main\Spindle Mount|[a] Spindle Mount 65mm Part A x1.stl||Yes|
-|Minimill Main\Spindle Mount|[a] Spindle Mount 80mm Part A x1.stl||Yes |
-|Minimill Main\Z Axis STLs|Z Axis Anti Backlash Nut x1.stl|||
-|Minimill Main\Z Axis STLs|Z Motor Mount x1.stl|||
-|Minimill Main\Z Axis STLs|[a] Z Axis Bearing Block x1.stl|||
-|Tools|Dummy Rail.stl|||
-|Tools|Rail Alignment Guide.stl|||
-|Tools|Rail Grease Packing Tool.stl|||
-|Electronics Table|Cable Channel Cover x1.stl|||
-|Electronics Table|Cable Channel x1.stl|||
-|Electronics Table|TPU Feet x4.stl|||
-|Electronics Table|[a] Table Bolt Down Bracket A x2.stl|||
-|Electronics Table|[a] Table Bolt Down Bracket B x2.stl|||
-|Minimill Main\Cable Chain Mounts|[a] Y Drag Chain Mount x1.stl|||
-|Minimill Main\Cable Chain Mounts|[a] Z Cable Redirect Hook x1.stl|||
-|Minimill Main\Cable Chain Mounts|[a] Z Drag Chain Mount A x1.stl|||
-|Minimill Main\Hand Wheels|Handwheel Body x2 .stl|Yes|Yes|
-|Minimill Main\Hand Wheels|Handwheel Body Knurled x2 .stl|Yes|Yes |
-|Minimill Main\Hand Wheels|Handwheel Handle x2.stl|||
-|Minimill Main\Main Column|Ballast Box x1.stl|||
-|Minimill Main\Main Column|Ballast Cap x1.stl|||
-
-
-## Inlet Skirt 1.0mm
-![image](IMG/Inlet_Skirt_1.0mm.png "wireframe image")  
-This part replaces the `plug_panel` part from the official [Milo V1.5 repo](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files). It adapts specifically to 1.0mm AC inlets for a better fit.
-
-## Fly CDY V3 Mount
-![image](IMG/Fly_CDY_V3_Mount.png "wireframe image")  
-This is an LDO designed mount for the FLY CDY V3 mainboard provided in the kit. It replaces the original printed part and allows for easy insertion of the SD card. 
-
-## I/O Expander Mount
-![image](IMG/IO_Expander_Mount.png "wireframe image")  
-This is a printed mount for the LDO I/O expansion board included in the kit. The expansion board allows the mainboard to control the spindle VFD.
-
-## I/O Expander Mount (For DIN Rails)
-![image](IMG/IO_Expander_DIN_Mount.png "wireframe image")  
-This printed part is for the same I/O expansion board as described above, it is specifically used for mounting on DIN rails for the CASA mod.
-
-## LMF350-UH PSU Mount
-![image](IMG/LMF350-23B24UH_Mount.png "wireframe image")  
-The LMF350-UH series compact power supplied in the kit uses these mounting brackets. 
-
-## LDO Handwheel
-![image](IMG/LDO_Handwheel_Knurled.png "wireframe image")  
-This is an optional handle wheel design which features knurling. 
-
-## LDO Handwheel (Smooth)
-![image](IMG/LDO_Handwheel_Smooth.png "wireframe image")  
-This is the same handwheel as above but omits knurling.
-
-## X Motor Mount
-![image](IMG/X_Motor_Mount.png "wireframe image")  
-This X Motor mount features a small tab that prevents the X drag chain from flopping.
-
-## FMJ Z Chain Backer
-![image](IMG/FMJ_Z_Chain_Backer.png "wireframe image")  
-This drag chain backer mounts on the FMJ plate. It also features anchor points for cable ties.
-
-## Z Drag Chain Mount B
-![image](IMG/Z_Drag_Chain_Mount_B.png "wireframe image")  
-This drag chain mount replaces the original Z Drag Chain Mount B, it helps prevent flopping.
-
-## Z Top Cable Tie Anchor
-![image](IMG/Z_Top_Cable_Tie_Anchor.png "wireframe image")  
-This optional printed part adds a cable tie anchor at the top of the main column.
-
-## Rear Cable Cover
-![image](IMG/Rear_Cable_Cover.png "wireframe image")  
-This optional printed part helps hold down the X and Y cables onto the electronics table.
+# Electronics Table
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Cable Channel Cover x1(Electronics Table/Cable Channel Cover x1.stl)|Electronics Table|1|False|||
+|Cable Channel x1(Electronics Table/Cable Channel x1.stl)|Electronics Table|1|False|||
+|IO Expander DIN Mount  x1(Electronics Table/IO Expander DIN Mount  x1.stl)|Electronics Table|1|False|||
+|IO Expander Mount  x1(Electronics Table/IO Expander Mount  x1.stl)|Electronics Table|1|False|||
+|Mainboard Mount x1(Electronics Table/Mainboard Mount x1.stl)|Electronics Table|1|False|||
+|PSU Mounting Brackets  x1(Electronics Table/PSU Mounting Brackets  x1.stl)|Electronics Table|1|False|||
+|Rear Skirt A x1(Electronics Table/Rear Skirt A x1.stl)|Electronics Table|1|False|||
+|Rear Skirt B x1(Electronics Table/Rear Skirt B x1.stl)|Electronics Table|1|False|||
+|Skirt Front A Solid x1(Electronics Table/Skirt Front A Solid x1.stl)|Electronics Table|1|False|||
+|Skirt Front B E-Stop x1(Electronics Table/Skirt Front B E-Stop x1.stl)|Electronics Table|1|False|||
+|TPU Feet x4(Electronics Table/TPU Feet x4.stl)|Electronics Table|4|False|||
+|WAGO Mount Horizontal x1(Electronics Table/WAGO Mount Horizontal x1.stl)|Electronics Table|1|False|||
+|WAGO Mount Vertical x1(Electronics Table/WAGO Mount Vertical x1.stl)|Electronics Table|1|False|||
+|[a] Table Bolt Down Bracket A x2(Electronics Table/[a] Table Bolt Down Bracket A x2.stl)|Electronics Table|2|True|||
+|[a] Table Bolt Down Bracket B x2(Electronics Table/[a] Table Bolt Down Bracket B x2.stl)|Electronics Table|2|True|||
+# Minimill Main
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Breakfast Mount x2(Minimill Main/Breakfast Mount x2.stl)|Minimill Main|2|False|||
+|Millenium Maker Coin(Minimill Main/Millenium Maker Coin.stl)|Minimill Main|1|False|||
+|Toolsetter x1(Minimill Main/Toolsetter x1.stl)|Minimill Main|1|False|||
+# Cable Chain Mounts
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|[a] XY Drag Chain Transition x1(Minimill Main/Cable Chain Mounts/[a] XY Drag Chain Transition x1.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+|[a] Y Drag Chain Mount x1(Minimill Main/Cable Chain Mounts/[a] Y Drag Chain Mount x1.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+|[a] Z Axis Cable Chain Backer x1(Minimill Main/Cable Chain Mounts/[a] Z Axis Cable Chain Backer x1.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+|[a] Z Axis Cable Cover x1(Minimill Main/Cable Chain Mounts/[a] Z Axis Cable Cover x1.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+|[a] Z Cable Redirect Hook x1(Minimill Main/Cable Chain Mounts/[a] Z Cable Redirect Hook x1.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+|[a] Z Drag Chain Mount A x1(Minimill Main/Cable Chain Mounts/[a] Z Drag Chain Mount A x1.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+|[a] Z Drag Chain Mount B x1(Minimill Main/Cable Chain Mounts/[a] Z Drag Chain Mount B x1.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+|[a] Z Top Cable Tie Anchor(Minimill Main/Cable Chain Mounts/[a] Z Top Cable Tie Anchor.stl)|Minimill Main/Cable Chain Mounts|1|True|||
+# Hand Wheels
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Handwheel Body Knurled x2 (Minimill Main/Hand Wheels/Handwheel Body Knurled x2 .stl)|Minimill Main/Hand Wheels|2|False|||
+|Handwheel Body x2 (Minimill Main/Hand Wheels/Handwheel Body x2 .stl)|Minimill Main/Hand Wheels|2|False|||
+|Handwheel Handle x2(Minimill Main/Hand Wheels/Handwheel Handle x2.stl)|Minimill Main/Hand Wheels|2|False|||
+# Main Column
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Ballast Box x1(Minimill Main/Main Column/Ballast Box x1.stl)|Minimill Main/Main Column|1|False|||
+|Ballast Cap x1(Minimill Main/Main Column/Ballast Cap x1.stl)|Minimill Main/Main Column|1|False|||
+# Spindle Mount
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Logo Insert x1(Minimill Main/Spindle Mount/Logo Insert x1.stl)|Minimill Main/Spindle Mount|1|False|||
+|Spindle Mount 80mm Part B x1(Minimill Main/Spindle Mount/Spindle Mount 80mm Part B x1.stl)|Minimill Main/Spindle Mount|1|False|||
+|[a] Spindle Mount 80mm Part A x1(Minimill Main/Spindle Mount/[a] Spindle Mount 80mm Part A x1.stl)|Minimill Main/Spindle Mount|1|True|||
+# X Axis STLs
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|X Axis Anti Backlash Nut x1(Minimill Main/X Axis STLs/X Axis Anti Backlash Nut x1.stl)|Minimill Main/X Axis STLs|1|False|||
+|X Axis Bearing Block x1(Minimill Main/X Axis STLs/X Axis Bearing Block x1.stl)|Minimill Main/X Axis STLs|1|False|||
+|X Axis Motor Mount x1(Minimill Main/X Axis STLs/X Axis Motor Mount x1.stl)|Minimill Main/X Axis STLs|1|False|||
+|X Axis Table Support Centre x2 (Minimill Main/X Axis STLs/X Axis Table Support Centre x2 .stl)|Minimill Main/X Axis STLs|2|False|||
+|X Axis Table Support Ends x4 (Minimill Main/X Axis STLs/X Axis Table Support Ends x4 .stl)|Minimill Main/X Axis STLs|4|False|||
+# Y Axis STLs
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Y Axis Anti Backlash Nut x1(Minimill Main/Y Axis STLs/Y Axis Anti Backlash Nut x1.stl)|Minimill Main/Y Axis STLs|1|False|||
+|Y Axis Bearing Block x1(Minimill Main/Y Axis STLs/Y Axis Bearing Block x1.stl)|Minimill Main/Y Axis STLs|1|False|||
+|Y Axis Motor Mount x1(Minimill Main/Y Axis STLs/Y Axis Motor Mount x1.stl)|Minimill Main/Y Axis STLs|1|False|||
+# Z Axis STLs
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Z Axis Anti Backlash Nut x1(Minimill Main/Z Axis STLs/Z Axis Anti Backlash Nut x1.stl)|Minimill Main/Z Axis STLs|1|False|||
+|Z Motor Mount x1(Minimill Main/Z Axis STLs/Z Motor Mount x1.stl)|Minimill Main/Z Axis STLs|1|False|||
+|[a] Z Axis Bearing Block x1(Minimill Main/Z Axis STLs/[a] Z Axis Bearing Block x1.stl)|Minimill Main/Z Axis STLs|1|True|||
+# Tools
+|File|Directory|Qty|Accent|LDO Version|Variations|
+|---|---|---|---|---|---|
+|Dummy Rail(Tools/Dummy Rail.stl)|Tools|1|False|||
+|Rail Alignment Guide(Tools/Rail Alignment Guide.stl)|Tools|1|False|||
+|Rail Grease Packing Tool(Tools/Rail Grease Packing Tool.stl)|Tools|1|False|||
