@@ -1,6 +1,6 @@
 # Printed Parts List
 This repo contains all of the parts required for the LDO kit.  We have excluded some parts from the original repository that are not needed for our kit and
-have added or modified parts as denoted in the "LDO Version" column.  Parts were there are multiple variations are interchangeable and only one version is needed.
+have added or modified parts as denoted in the "LDO Version" column.  Parts with multiple variations are interchangeable and only one version is needed.
 
 ## Filename Convention
 
