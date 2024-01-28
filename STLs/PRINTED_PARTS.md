@@ -12,11 +12,13 @@ These setting assume that parts will be printed with a 0.4mm nozzle and 0.2mm la
 
 ## Filename Convention
 
-Filenames with one of the following denotes a recommended filament color otherwise use your primary color
+Filenames with one of the following denotes a recommended filament color otherwise use your primary color 
 - [a] - accent
 - [o] - opaque 
 - [c] - clear
 
+(Note: This repo may not use all of these)
+            
 Filenames with a [v] denote a part has multiple variations
 - [v] - variation
 
@@ -49,7 +51,7 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 # Minimill Main
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
-|<a href="Minimill Main/Breakfast Mount x2_LDO.stl">Breakfast Mount x2_LDO.stl</a>|Minimill Main|2|Primary|1.6mm|X||
+|<a href="Minimill Main/Continental Breakfast Mount x2_LDO.stl">Continental Breakfast Mount x2_LDO.stl</a>|Minimill Main|2|Primary|1.6mm|X||
 |<a href="Minimill Main/Millenium Maker Coin.stl">Millenium Maker Coin.stl</a>|Minimill Main|1|Primary|1.6mm|||
 |<a href="Minimill Main/Toolsetter x1_LDO.stl">Toolsetter x1_LDO.stl</a>|Minimill Main|1|Primary|1.6mm|X||
 # Cable Chain Mounts
