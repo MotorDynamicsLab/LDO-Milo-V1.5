@@ -79,7 +79,7 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |---|---|---|---|---|---|---|
 |<a href="Minimill Main/Spindle Mount/Logo Insert x1.stl">Logo Insert x1.stl</a>|Minimill Main/Spindle Mount|1|Primary|1.6mm|||
 |<a href="Minimill Main/Spindle Mount/[24] Spindle Mount 80mm Part B x1.stl">[24] Spindle Mount 80mm Part B x1.stl</a>|Minimill Main/Spindle Mount|1|Primary|2.4mm|||
-|<a href="Minimill Main/Spindle Mount/[a][24] Spindle Mount 80mm Part A x1.stl">[a][24] Spindle Mount 80mm Part A x1.stl</a>|Minimill Main/Spindle Mount|1|Accent|2.4mm|||
+|<a href="Minimill Main/Spindle Mount/[a][24] Spindle Mount 80mm Part A x1_LDO.stl">[a][24] Spindle Mount 80mm Part A x1_LDO.stl</a>|Minimill Main/Spindle Mount|1|Accent|2.4mm|X||
 # X Axis STLs
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
@@ -98,8 +98,8 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
 |<a href="Minimill Main/Z Axis STLs/Z Axis Anti Backlash Nut x1_LDO.stl">Z Axis Anti Backlash Nut x1_LDO.stl</a>|Minimill Main/Z Axis STLs|1|Primary|1.6mm|X||
-|<a href="Minimill Main/Z Axis STLs/Z Motor Mount x1.stl">Z Motor Mount x1.stl</a>|Minimill Main/Z Axis STLs|1|Primary|1.6mm|||
-|<a href="Minimill Main/Z Axis STLs/[a] Z Axis Bearing Block x1.stl">[a] Z Axis Bearing Block x1.stl</a>|Minimill Main/Z Axis STLs|1|Accent|1.6mm|||
+|<a href="Minimill Main/Z Axis STLs/Z Motor Mount x1_LDO.stl">Z Motor Mount x1_LDO.stl</a>|Minimill Main/Z Axis STLs|1|Primary|1.6mm|X||
+|<a href="Minimill Main/Z Axis STLs/[a] Z Axis Bearing Block x1_LDO.stl">[a] Z Axis Bearing Block x1_LDO.stl</a>|Minimill Main/Z Axis STLs|1|Accent|1.6mm|X||
 # Tools
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
