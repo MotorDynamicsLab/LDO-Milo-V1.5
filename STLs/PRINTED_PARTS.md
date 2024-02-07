@@ -62,7 +62,7 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |<a href="Minimill Main/Cable Chain Mounts/[a] Y Drag Chain Mount x1.stl">[a] Y Drag Chain Mount x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
 |<a href="Minimill Main/Cable Chain Mounts/[a] Z Axis Cable Chain Backer x1_LDO.stl">[a] Z Axis Cable Chain Backer x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
 |<a href="Minimill Main/Cable Chain Mounts/[a] Z Cable Redirect Hook x1.stl">[a] Z Cable Redirect Hook x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
-|<a href="Minimill Main/Cable Chain Mounts/[a] Z Drag Chain Mount A x1.stl">[a] Z Drag Chain Mount A x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
+|<a href="Minimill Main/Cable Chain Mounts/[a] Z Drag Chain Mount A x1_LDO.stl">[a] Z Drag Chain Mount A x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
 |<a href="Minimill Main/Cable Chain Mounts/[a] Z Drag Chain Mount B x1_LDO.stl">[a] Z Drag Chain Mount B x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
 |<a href="Minimill Main/Cable Chain Mounts/[a] Z Top Cable Tie Anchor_LDO.stl">[a] Z Top Cable Tie Anchor_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
 # Hand Wheels
