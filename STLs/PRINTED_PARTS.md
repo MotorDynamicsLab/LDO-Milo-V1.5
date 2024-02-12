@@ -46,8 +46,8 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |<a href="Electronics Table/Skirt Front B E-Stop x1.stl">Skirt Front B E-Stop x1.stl</a>|Electronics Table|1|Primary|1.6mm|||
 |<a href="Electronics Table/TPU Feet x4.stl">TPU Feet x4.stl</a>|Electronics Table|1|Primary|1.6mm|||
 |<a href="Electronics Table/WAGO Mount x1_LDO.stl">WAGO Mount x1_LDO.stl</a>|Electronics Table|1|Primary|1.6mm|X||
-|<a href="Electronics Table/[a] Table Bolt Down Bracket A x2.stl">[a] Table Bolt Down Bracket A x2.stl</a>|Electronics Table|1|Accent|1.6mm|||
-|<a href="Electronics Table/[a] Table Bolt Down Bracket B x2.stl">[a] Table Bolt Down Bracket B x2.stl</a>|Electronics Table|1|Accent|1.6mm|||
+|<a href="Electronics Table/[a] Table Bolt Down Bracket A x2_LDO.stl">[a] Table Bolt Down Bracket A x2_LDO.stl</a>|Electronics Table|2|Accent|1.6mm|X||
+|<a href="Electronics Table/[a] Table Bolt Down Bracket B x2_LDO.stl">[a] Table Bolt Down Bracket B x2_LDO.stl</a>|Electronics Table|2|Accent|1.6mm|X||
 # Minimill Main
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
