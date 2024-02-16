@@ -106,5 +106,5 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
 |<a href="Tools/Dummy Rail.stl">Dummy Rail.stl</a>|Tools|1|Primary|1.6mm|||
-|<a href="Tools/Rail Alignment Guide.stl">Rail Alignment Guide.stl</a>|Tools|1|Primary|1.6mm|||
+|<a href="Tools/Rail Alignment Guide.stl">Rail Alignment Guide.stl</a>|Tools|2 or more|Primary|1.6mm|||
 |<a href="Tools/Rail Grease Packing Tool.stl">Rail Grease Packing Tool.stl</a>|Tools|1|Primary|1.6mm|||
