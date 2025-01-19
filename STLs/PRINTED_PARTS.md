@@ -29,7 +29,7 @@ Filenames with a [##] denotes specific wall thickness instead of the default
 
 Filenames will include x# denotes how many copies you will need
 - i.e. Test x3.stl will require 3 copies
-
+%5Ba%5D
 Filenames with "LDO" denotes that we have modified the original part or it's specific to the LDO kit
 # Electronics Table
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
@@ -46,8 +46,8 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |<a href="Electronics Table/Skirt Front B E-Stop x1.stl">Skirt Front B E-Stop x1.stl</a>|Electronics Table|1|Primary|1.6mm|||
 |<a href="Electronics Table/TPU Feet x4.stl">TPU Feet x4.stl</a>|Electronics Table|1|Primary|1.6mm|||
 |<a href="Electronics Table/WAGO Mount x1_LDO.stl">WAGO Mount x1_LDO.stl</a>|Electronics Table|1|Primary|1.6mm|X||
-|<a href="Electronics Table/[a] Table Bolt Down Bracket A x2_LDO.stl">[a] Table Bolt Down Bracket A x2_LDO.stl</a>|Electronics Table|2|Accent|1.6mm|X||
-|<a href="Electronics Table/[a] Table Bolt Down Bracket B x2_LDO.stl">[a] Table Bolt Down Bracket B x2_LDO.stl</a>|Electronics Table|2|Accent|1.6mm|X||
+|<a href="Electronics Table/%5Ba%5D Table Bolt Down Bracket A x2_LDO.stl">[a] Table Bolt Down Bracket A x2_LDO.stl</a>|Electronics Table|2|Accent|1.6mm|X||
+|<a href="Electronics Table/%5Ba%5D Table Bolt Down Bracket B x2_LDO.stl">[a] Table Bolt Down Bracket B x2_LDO.stl</a>|Electronics Table|2|Accent|1.6mm|X||
 # Minimill Main
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
@@ -58,19 +58,19 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
 |<a href="Minimill Main/Cable Chain Mounts/Rear Cable Cover x1_LDO.stl">Rear Cable Cover x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Primary|1.6mm|X||
-|<a href="Minimill Main/Cable Chain Mounts/[a] XY Drag Chain Transition x1.stl">[a] XY Drag Chain Transition x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
-|<a href="Minimill Main/Cable Chain Mounts/[a] Y Drag Chain Mount x1.stl">[a] Y Drag Chain Mount x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
-|<a href="Minimill Main/Cable Chain Mounts/[a] Z Axis Cable Chain Backer x1_LDO.stl">[a] Z Axis Cable Chain Backer x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
-|<a href="Minimill Main/Cable Chain Mounts/[a] Z Cable Redirect Hook x1.stl">[a] Z Cable Redirect Hook x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
-|<a href="Minimill Main/Cable Chain Mounts/[a] Z Drag Chain Mount A x1_LDO.stl">[a] Z Drag Chain Mount A x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
-|<a href="Minimill Main/Cable Chain Mounts/[a] Z Drag Chain Mount B x1_LDO.stl">[a] Z Drag Chain Mount B x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
-|<a href="Minimill Main/Cable Chain Mounts/[a] Z Top Cable Tie Anchor_LDO.stl">[a] Z Top Cable Tie Anchor_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
+|<a href="Minimill Main/Cable Chain Mounts/%5Ba%5D XY Drag Chain Transition x1.stl">[a] XY Drag Chain Transition x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm||| [a] XY Drag Chain Transition x1.stl
+|<a href="Minimill Main/Cable Chain Mounts/%5Ba%5D Y Drag Chain Mount x1.stl">[a] Y Drag Chain Mount x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
+|<a href="Minimill Main/Cable Chain Mounts/%5Ba%5D Z Axis Cable Chain Backer x1_LDO.stl">[a] Z Axis Cable Chain Backer x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
+|<a href="Minimill Main/Cable Chain Mounts/%5Ba%5D Z Cable Redirect Hook x1.stl">[a] Z Cable Redirect Hook x1.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|||
+|<a href="Minimill Main/Cable Chain Mounts/%5Ba%5D Z Drag Chain Mount A x1_LDO.stl">[a] Z Drag Chain Mount A x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
+|<a href="Minimill Main/Cable Chain Mounts/%5Ba%5D Z Drag Chain Mount B x1_LDO.stl">[a] Z Drag Chain Mount B x1_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
+|<a href="Minimill Main/Cable Chain Mounts/%5Ba%5D Z Top Cable Tie Anchor_LDO.stl">[a] Z Top Cable Tie Anchor_LDO.stl</a>|Minimill Main/Cable Chain Mounts|1|Accent|1.6mm|X||
 # Hand Wheels
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
 |<a href="Minimill Main/Hand Wheels/Handwheel Handle x2.stl">Handwheel Handle x2.stl</a>|Minimill Main/Hand Wheels|1|Primary|1.6mm|||
-|<a href="Minimill Main/Hand Wheels/[v] Handwheel Body Knurled x2_LDO.stl">[v] Handwheel Body Knurled x2_LDO.stl</a>|Minimill Main/Hand Wheels|2|Primary|1.6mm|X|X|
-|<a href="Minimill Main/Hand Wheels/[v] Handwheel Body x2_LDO.stl">[v] Handwheel Body x2_LDO.stl</a>|Minimill Main/Hand Wheels|2|Primary|1.6mm|X|X|
+|<a href="Minimill Main/Hand Wheels/%5Bv%5D Handwheel Body Knurled x2_LDO.stl">[v] Handwheel Body Knurled x2_LDO.stl</a>|Minimill Main/Hand Wheels|2|Primary|1.6mm|X|X|
+|<a href="Minimill Main/Hand Wheels/%5Bv%5D Handwheel Body x2_LDO.stl">[v] Handwheel Body x2_LDO.stl</a>|Minimill Main/Hand Wheels|2|Primary|1.6mm|X|X|
 # Main Column
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
@@ -80,8 +80,8 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
 |<a href="Minimill Main/Spindle Mount/Logo Insert x1.stl">Logo Insert x1.stl</a>|Minimill Main/Spindle Mount|1|Primary|1.6mm|||
-|<a href="Minimill Main/Spindle Mount/[24] Spindle Mount 80mm Part B x1_LDO.stl">[24] Spindle Mount 80mm Part B x1_LDO.stl</a>|Minimill Main/Spindle Mount|1|Primary|2.4mm|X||
-|<a href="Minimill Main/Spindle Mount/[a][24] Spindle Mount 80mm Part A x1_LDO.stl">[a][24] Spindle Mount 80mm Part A x1_LDO.stl</a>|Minimill Main/Spindle Mount|1|Accent|2.4mm|X||
+|<a href="Minimill Main/Spindle Mount/%5B24%5D Spindle Mount 80mm Part B x1_LDO.stl">[24] Spindle Mount 80mm Part B x1_LDO.stl</a>|Minimill Main/Spindle Mount|1|Primary|2.4mm|X||
+|<a href="Minimill Main/Spindle Mount/%5Ba%5D%5B24%5D Spindle Mount 80mm Part A x1_LDO.stl">[a][24] Spindle Mount 80mm Part A x1_LDO.stl</a>|Minimill Main/Spindle Mount|1|Accent|2.4mm|X||
 # X Axis STLs
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
@@ -101,7 +101,7 @@ Filenames with "LDO" denotes that we have modified the original part or it's spe
 |---|---|---|---|---|---|---|
 |<a href="Minimill Main/Z Axis STLs/Z Axis Anti Backlash Nut x1_LDO.stl">Z Axis Anti Backlash Nut x1_LDO.stl</a>|Minimill Main/Z Axis STLs|1|Primary|1.6mm|X||
 |<a href="Minimill Main/Z Axis STLs/Z Motor Mount x1_LDO.stl">Z Motor Mount x1_LDO.stl</a>|Minimill Main/Z Axis STLs|1|Primary|1.6mm|X||
-|<a href="Minimill Main/Z Axis STLs/[a] Z Axis Bearing Block x1_LDO.stl">[a] Z Axis Bearing Block x1_LDO.stl</a>|Minimill Main/Z Axis STLs|1|Accent|1.6mm|X||
+|<a href="Minimill Main/Z Axis STLs/%5Ba%5D Z Axis Bearing Block x1_LDO.stl">[a] Z Axis Bearing Block x1_LDO.stl</a>|Minimill Main/Z Axis STLs|1|Accent|1.6mm|X||
 # Tools
 |File|Directory|Qty|Color|Strength|LDO Version|Variations|
 |---|---|---|---|---|---|---|
